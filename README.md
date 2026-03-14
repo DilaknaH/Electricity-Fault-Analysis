@@ -1,4 +1,3 @@
-````
 ![Python](https://img.shields.io/badge/python-3.10+-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub stars](https://img.shields.io/github/stars/DilaknaH/Electricity-Fault-Analysis?style=social)
 
 # Electricity Distribution Network Fault Analysis and Prediction
@@ -52,7 +51,6 @@ results/
     forecast_results.csv        # ARIMA forecast outputs
     hotspot_results.csv         # Spatial hotspot outputs
     figures/                    # Plots and visualizations
-````
 
 ## Key Outputs
 
