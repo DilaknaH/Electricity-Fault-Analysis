@@ -40,7 +40,7 @@ The project follows a structured workflow:
 - Statsmodels  
 
 ## Project Structure
-```text
+
 data/
     ukpn-iis.csv                # Raw dataset
 
@@ -101,5 +101,3 @@ This project is licensed under the [MIT License](LICENSE).
 
  
 
-Do you want me to do that next?
-```
