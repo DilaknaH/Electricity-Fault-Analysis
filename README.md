@@ -65,7 +65,7 @@ results/
 ![Hotspot Map](results/figures/hotspot_map.png)
 
 **2. ARIMA Forecast Plot**
-![ARIMA Forecast](results/figures/forecast_plot.png)
+![ARIMA Forecast](results/figures/forecast_results.png)
 
 ## Installation
 
