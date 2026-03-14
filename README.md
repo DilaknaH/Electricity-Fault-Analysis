@@ -94,8 +94,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Dilakna Godagamage** – Data Science Undergraduate Research Project
-
-
- 
-
+**Dilakna Godagamage** – Data Science Undergraduate 
